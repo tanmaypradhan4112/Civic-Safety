@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>World</title>
+    <link rel="shortcut icon" type="image/x-icon" href="worldwide.png" />
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+
+    <link href="./demo.css" rel="stylesheet" />
+    <link href="../../dist/svgMap.css" rel="stylesheet" />
+    <script src="../../dist/svgMap.js"></script>
+  </head>
+
+  <body>
+    <div class="demo-wrapper">
+      <!-- Demo GPD -->
+
+      <div class="demo-container">
+        <h2>World Crime Rate Analysis</h2>
+
+        <div id="svgMapGPD"></div>
+        <script src="./data/gdp.js"></script>
+        <script>
+          new svgMap({
+            targetElementID: 'svgMapGPD',
+            data: svgMapDataGPD,
+            // mouseWheelZoomEnabled: true,
+            // mouseWheelZoomWithKey: true
+          });
+        </script>
+      </div>
+    </div>
+  </body>
+</html>
