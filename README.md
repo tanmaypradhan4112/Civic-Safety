@@ -8,10 +8,6 @@ So it's easy for you to look at the stats easily.
 - CSS
 - JAVASCRIPT
 
-# Interface
-![homepage]()
-![Worldmap]()
-
 # About the website
 - There are 3 sections:
 
