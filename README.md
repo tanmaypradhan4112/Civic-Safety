@@ -9,6 +9,7 @@ So it's easy for you to look at the stats easily.
 - JAVASCRIPT
 
 # About the website
+HomePage: Civic-Safety
 - There are 3 sections:
 
   - World
