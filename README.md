@@ -8,6 +8,14 @@ So it's easy for you to look at the stats easily.
 - CSS
 - JAVASCRIPT
 
+# Interface
+
+## Home-Page
+<img src="https://raw.githubusercontent.com/tanmaypradhan4112/civic-safety/main/civic%20homepage.png">
+
+## World Section
+<img src ="https://raw.githubusercontent.com/tanmaypradhan4112/civic-safety/civic-safety-readme/world%20map.png">
+
 # About the website
 - There are 3 sections:
 
